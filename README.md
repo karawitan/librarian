@@ -61,7 +61,7 @@ npm install
 npm run start
 ```
 
-Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Navigate to `http://localhost:4201/`. The app will automatically reload if you change any of the source files.
 
 The app connect to back-end with Meteor's DDP protocol. Connection settings are in `environment/client-config.js`, for localhost port 3030 use this:
 ```
